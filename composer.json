@@ -1,5 +1,5 @@
 {
-    "name": "saritasa/api_phplib",
+    "name": "saritasa/theets",
     "description": "PHP Helper Library for TSheets API",
     "keywords": ["php", "library", "api", "rest", "tsheets"],
     "type": "library",
