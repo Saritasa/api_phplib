@@ -1,6 +1,10 @@
+### This is a fork of [TSheetsTeam/api_phplib](TSheetsTeam/api_phplib)
+**to publish it as composer package, because there is no official package.**
+
+----------
+
 TSheets API wrapper PHP
 ==========
-
 PHP Helper Library for TSheets API
 
 This library provides basic REST operations as well as methods to help with authentication and
