@@ -1,0 +1,15 @@
+{
+    "name": "saritasa/api_phplib",
+    "description": "PHP Helper Library for TSheets API",
+    "keywords": ["php", "library", "api", "rest", "tsheets"],
+    "type": "library",
+    "homepage": "https://github.com/TSheetsTeam/api_phplib",
+    "autoload": {
+      "classmap": [
+        "tsheets.inc.php"
+      ]
+    },
+    "require": {
+      "php": ">=5.5.0"
+    }
+}
